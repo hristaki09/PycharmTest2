@@ -1,1 +1,6 @@
-{}
+[
+    {"name":"John", "age":30, "car":null},
+    {"name":"Peter", "age":25, "car": "Tesla"},
+    {"name":"Maria", "age":22, "car": "Ford"}
+]
+    
