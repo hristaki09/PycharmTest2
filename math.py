@@ -2,8 +2,9 @@
 def add_numbers(x, y):
     return x + y
 
+def subtr_numbers(x, y):
+    return
 
-# testing again and again
-
-def mult_numbers(x, Y):
+def mult_numbers(x, y):
     return x * y
+
